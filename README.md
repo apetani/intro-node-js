@@ -34,7 +34,6 @@ Important: After installing node, please run `npm install i` or `npm install` to
   * test - `npx jest`
 
 This exercise will have you convert some JavaScript written for the browser, so that it works with node.
-- [ ] check out to start branch
 - [ ] check the README on how to run test (will talk later about that command)
 - [ ] fix and convert the 3 js files in the exercises/modules/browser to Nodejs JavaScript and place them in exercises/modules/node
 - [ ] ensure all tests pass by running test command again
@@ -70,7 +69,6 @@ You'll be refacoring and fixing a simple static asset server. The server uses bl
 
 You have to debug and track down some issues in a small app. Use your logging and inspector to find them. Try and fix them, once you do, write some test to make sure it stays fixed 👌🏾😎💯
 
-- [ ] checkout to start branch
 - [ ] check the README on how to execute this program and run test
 - [ ] there are 3 bugs, find them and fix them
 - [ ] write some unit test with Jest to make sure those bugs stay fixed. Refactor the code if you have to
